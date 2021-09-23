@@ -53,6 +53,12 @@ button{
     position: relative;
   }
 
+  .container2 {
+    width: 1000px;
+    height: auto;
+    position: relative;
+  }
+
   .text-block {
     position: absolute;
     bottom: 20px;
