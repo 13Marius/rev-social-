@@ -56,8 +56,10 @@ button{
   .container2 {
     width: 1000px;
     height: auto;
-    
+    margin: auto;
+    border: 1px solid black;
     position: relative;
+    margin-top: 5px;
   }
 
   .text-block {
