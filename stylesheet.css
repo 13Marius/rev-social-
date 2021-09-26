@@ -60,6 +60,13 @@ button{
     position: relative;
   }
 
+  .container3{
+      width: 1000px;
+      height: auto;
+      margin: auto;
+      padding-top: 10px;
+  }
+
   .text-block {
     position: absolute;
     bottom: 20px;
