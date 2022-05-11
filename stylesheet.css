@@ -69,22 +69,19 @@ button{
       padding-top: 10px;
   }
 
-  #Review{
-    width: 1090px ;
-     border: 1px solid black;
-    margin: auto;
-    margin-top: 5px;
-  }
-
+   
   #slide{
     width: 1090px ;
+    background-color:#ffffff ;
     border: 1px solid black;
     margin: auto;
     margin-top: 5px;
+
+
   
 
   }
-
+  
 
   .text-block {
     position: absolute;
